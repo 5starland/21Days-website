@@ -7,9 +7,9 @@ include_in_header: false
 
 # Privacy Policy
 
-Letalk respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself (except for cookies and pixel tags, as provided in this privacy policy). When we do need your personal information to provide services that you request or when you choose to use our application, an AI tool built to help you achieve English fluency (the “App” or the “Services”), or provide us with your personal information, for example when you decide to contact us for additional information, this policy describes how we collect and use your personal information.
+「21 days speak」 respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself (except for cookies and pixel tags, as provided in this privacy policy). When we do need your personal information to provide services that you request or when you choose to use our application, an AI tool built to help you achieve English fluency (the “App” or the “Services”), or provide us with your personal information, for example when you decide to contact us for additional information, this policy describes how we collect and use your personal information.
 
-The entity responsible for the processing of your personal data is LANG AI LLC referred to as “Letalk”, “our”, “we” or “us” in this privacy policy.
+The entity responsible for the processing of your personal data is Hangzhou Xinglu Network Information Technology Co., Ltd referred to as 「21 days speak」, “our”, “we” or “us” in this privacy policy.
 
 Depending on your interaction with us, we collect two types of data:
 
@@ -59,13 +59,13 @@ If you wish to block cookies, you may do so through your browser’s and applica
 
 ##### Information sharing and disclosure
 
-Your personal information may be shared with other Letalk offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
+Your personal information may be shared with other 「21 days speak」 offices or subsidiaries around the world. All such entities are governed by this Privacy Policy or are bound by the appropriate confidentiality and data transfer agreements.
 
-Letalk may share your personal information with other companies or people under any of the following circumstances:
+「21 days speak」 may share your personal information with other companies or people under any of the following circumstances:
 
 1. When we have your consent to share the information;
-2. We need to send the information to third parties who provide services to Letalk (such as speech recognition or speech-to-text technology), or work on behalf of Letalk to provide you with certain customer service (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose);
-3. In the event of sale or transfer of all or substantially all of Letalk or any Letalk affiliate’s shares or assets, in cases of mergers or in case of negotiations with respect to the foregoing;
+2. We need to send the information to third parties who provide services to 「21 days speak」 (such as speech recognition or speech-to-text technology), or work on behalf of 「21 days speak」 to provide you with certain customer service (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose);
+3. In the event of sale or transfer of all or substantially all of 「21 days speak」 or any 「21 days speak」 affiliate’s shares or assets, in cases of mergers or in case of negotiations with respect to the foregoing;
 4. Where needed for corporate audits or to investigate or respond to a complaint or security threat, to prevent illegal uses of our services, to defend ourselves against third party claims and assist in fraud prevention or investigation; or
 5. We will also disclose your personal information if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our business.
 
@@ -75,19 +75,19 @@ For the above purposes, personal information may be transferred to recipients in
 
 ##### Data Retention
 
-Letalk stores the personal information as long as it is necessary to fulfill the purpose for which the data has been collected. This means that Letalk deletes your personal information when such information is no longer necessary, unless we have a legitimate interest to retain such data for longer periods or are required to do so by any applicable law. Statistics which have been anonymized may be saved thereafter.
+「21 days speak」 stores the personal information as long as it is necessary to fulfill the purpose for which the data has been collected. This means that 「21 days speak」 deletes your personal information when such information is no longer necessary, unless we have a legitimate interest to retain such data for longer periods or are required to do so by any applicable law. Statistics which have been anonymized may be saved thereafter.
 
 ##### Data security
 
-Letalk safeguards the security of the data you send us with physical, electronic, and managerial procedures, taking into consideration the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of processing your personal information. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet.
+「21 days speak」 safeguards the security of the data you send us with physical, electronic, and managerial procedures, taking into consideration the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of processing your personal information. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet.
 
 ##### Third party sites
 
-Our App and Website may contain links to other apps and websites operated by other companies. Letalk does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the Letalk logo, even though they are not operated or maintained by Letalk. Although we choose our business partners carefully, Letalk is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on Letalk’s website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties’ privacy statements.
+Our App and Website may contain links to other apps and websites operated by other companies. 「21 days speak」 does not share your personal information with those apps and websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies. Some of these third-party apps and sites may have permission to include the 「21 days speak」 logo, even though they are not operated or maintained by 「21 days speak」. Although we choose our business partners carefully, 「21 days speak」 is not responsible for the privacy practices of apps and websites operated by third parties that are linked to our website and App. Once you have left our website or App, you should check the applicable privacy policy of the third-party website or app to determine how they will handle any information they collect from you. We may provide services based on third party applications and content tools on 「21 days speak」’s website or App. These third parties may automatically receive certain types of information whenever you interact with us on our website or App using such third-party applications and tools, based on such third parties’ privacy statements.
 
 ##### Changes to this privacy policy
 
-Letalk will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on Letalk’s website.
+「21 days speak」 will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on 「21 days speak」’s website.
 
 Our website and mobile application may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
@@ -97,8 +97,4 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 Our contact information:
 
-**LANG AI, LLC**
-
-**8 THE GREEN, STE A, DOVER, DELAWARE,** [**United States**]
-
-Contact email: support@langaiapp.com
+Contact email: support@5starland.com
