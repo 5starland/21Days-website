@@ -74,20 +74,16 @@ Content Use
 
 ####Disclaimer
 
-The materials on LANG AI,LLC's website and mobile application are provided on an 'as is' basis. LANG AI,LLC. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-Further, LANG AI,LLC. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+The materials on Hangzhou Xinglu Network Information Technology Co., Ltd's website and mobile application are provided on an 'as is' basis. Hangzhou Xinglu Network Information Technology Co., Ltd. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+Further, Hangzhou Xinglu Network Information Technology Co., Ltd. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
 ##### Limitations
 
-In no event shall LANG AI,LLC. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on LANG AI,LLC.'s website, even if LANG AI,LLC. or a LANG AI,LLC. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall Hangzhou Xinglu Network Information Technology Co., Ltd. or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Hangzhou Xinglu Network Information Technology Co., Ltd.'s website, even if Hangzhou Xinglu Network Information Technology Co., Ltd. or a Hangzhou Xinglu Network Information Technology Co., Ltd. authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 ##### Modifications
 
-LANG AI,LLC. may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
-
-##### Governing Law
-
-These terms and conditions are governed by and construed in accordance with the laws of California and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+Hangzhou Xinglu Network Information Technology Co., Ltd. may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
 
 ##### Usage Rules
 
